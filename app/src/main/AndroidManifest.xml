@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Androidnoteapp">
         <activity
-            android:name=".AddNoteActivity"
+            android:name=".AddEditNoteActivity"
             android:parentActivityName=".MainActivity"
             android:exported="true" />
         <activity
